@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,filesize",
+    "logging_enabled": "false",
+    "name": "filesizeSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "filesizeSmokeTest.js"
+}
